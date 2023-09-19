@@ -4,21 +4,13 @@
 	padding: 20px;
 	padding-bottom: 20px;
 }
-#one{
+#one, #two, #three, #four{
 	padding: 20px;
 	border: 1px solid yellow;
 	background-color: white;
 }
-#two{
-	padding: 20px;
-	border: 1px solid yellow;
-	background-color: white;
-}
- #aa{
-	text-align: right;
-	 font-style: italic
-}
-#bb{
+
+ #aa, #bb, #cc, #dd{
 	text-align: right;
 	 font-style: italic
 }
